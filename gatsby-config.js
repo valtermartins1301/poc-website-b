@@ -6,5 +6,5 @@
 
 module.exports = {
   plugins: [],
-  pathPrefix: '/TEST001b'
+  assetPrefix: '/TEST001b'
 }
