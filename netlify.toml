@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/TEST001b/*"
+  to = "/:splat"
+  status = 200
